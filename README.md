@@ -20,5 +20,5 @@ It includes email and password input fields, a password visibility toggle, a "Si
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Denis-7242/flutter login page
-cd flutter login page
+git clone https://github.com/Denis-7242/flutterloginpage
+cd flutterloginpage
