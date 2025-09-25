@@ -133,7 +133,7 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                     SizedBox(width: 6),
                     Text(
-                      "Register as Landlord",
+                      "Register account",
                       style: TextStyle(
                         color: Colors.blue,
                         fontWeight: FontWeight.bold,
