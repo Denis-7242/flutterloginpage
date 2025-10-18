@@ -1,6 +1,6 @@
 # Flutter login page
 
-This project replicates a modern **login page UI** built with Flutter.  
+This project is of a modern **login page UI** built with Flutter.  
 It includes email and password input fields, a password visibility toggle, a "Sign In" button, and a "Register" link.
 
 ---
