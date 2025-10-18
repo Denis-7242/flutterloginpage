@@ -1,7 +1,7 @@
 # Flutter login page
 
 This project replicates a modern **login page UI** built with Flutter.  
-It includes email and password input fields, a password visibility toggle, a "Sign In" button, and a "Register as Landlord" link.
+It includes email and password input fields, a password visibility toggle, a "Sign In" button, and a "Register" link.
 
 ---
 
@@ -11,7 +11,7 @@ It includes email and password input fields, a password visibility toggle, a "Si
 - Email input with icon
 - Password input with toggle visibility
 - Full-width "Sign In" button
-- "Register as Landlord" option
+- "Register" option
 - Responsive layout with centered form
 
 ---
